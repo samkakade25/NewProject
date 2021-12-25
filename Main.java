@@ -10,5 +10,14 @@ public class Main {
 
 
     
-     System.out.println("It`s 25 December");}
+     System.out.println("It`s 25 December");
+     
+     
+     
+     
+     
+     
+     
+     System.out.println("Happy christmas all");   
+     }
 }
