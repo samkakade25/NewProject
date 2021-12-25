@@ -10,5 +10,5 @@ public class Main {
 
 
     
-     System.out.println("Hello world");}
+     System.out.println("It`s 25 December");}
 }
